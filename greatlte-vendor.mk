@@ -18,7 +18,7 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/greatlte
 
 PRODUCT_COPY_FILES += \
-    vendor/samsung/greatlte/proprietary/lib/hw/camera.vendor.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.universal8895.so \
+    vendor/samsung/greatlte/proprietary/lib/hw/camera.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.universal8895.so \
     vendor/samsung/greatlte/proprietary/lib/libFacePreProcessing.camera.samsung.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFacePreProcessing.camera.samsung.so \
     vendor/samsung/greatlte/proprietary/lib/libFacePreProcessing_jni.camera.samsung.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFacePreProcessing_jni.camera.samsung.so \
     vendor/samsung/greatlte/proprietary/lib/libFacialBasedSelfieCorrection.camera.samsung.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libFacialBasedSelfieCorrection.camera.samsung.so \
@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/greatlte/proprietary/lib/libsmartfocusengine.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsmartfocusengine.so \
     vendor/samsung/greatlte/proprietary/lib/libuniapi.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libuniapi.so \
     vendor/samsung/greatlte/proprietary/lib/libuniplugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libuniplugin.so \
-    vendor/samsung/greatlte/proprietary/lib64/hw/camera.vendor.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/camera.vendor.universal8895.so \
+    vendor/samsung/greatlte/proprietary/lib64/hw/camera.universal8895.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/hw/camera.universal8895.so \
     vendor/samsung/greatlte/proprietary/lib64/libIDDQD_core.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libIDDQD_core.so \
     vendor/samsung/greatlte/proprietary/lib64/libIDDQD_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libIDDQD_interface.so \
     vendor/samsung/greatlte/proprietary/lib64/libblurdetection.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libblurdetection.so \
