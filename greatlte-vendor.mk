@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/greatlte/proprietary/lib/libfocuspeaking_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libfocuspeaking_interface.so \
     vendor/samsung/greatlte/proprietary/lib/libhifills_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libhifills_interface.so \
     vendor/samsung/greatlte/proprietary/lib/libhwjpeg.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libhwjpeg.so \
-    vendor/samsung/greatlte/proprietary/lib/libsecril-client.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsecril-client.so \
     vendor/samsung/greatlte/proprietary/lib/libsensorlistener.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsensorlistener.so \
     vendor/samsung/greatlte/proprietary/lib/libsmartfocus_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsmartfocus_interface.so \
     vendor/samsung/greatlte/proprietary/lib/libsmartfocusengine.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsmartfocusengine.so \
@@ -37,7 +36,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/greatlte/proprietary/lib64/libfocuspeaking_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libfocuspeaking_interface.so \
     vendor/samsung/greatlte/proprietary/lib64/libhifills_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libhifills_interface.so \
     vendor/samsung/greatlte/proprietary/lib64/libhwjpeg.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libhwjpeg.so \
-    vendor/samsung/greatlte/proprietary/lib64/libsecril-client.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsecril-client.so \
     vendor/samsung/greatlte/proprietary/lib64/libsensorlistener.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsensorlistener.so \
     vendor/samsung/greatlte/proprietary/lib64/libsmartfocus_interface.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsmartfocus_interface.so \
     vendor/samsung/greatlte/proprietary/lib64/libsmartfocusengine.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libsmartfocusengine.so \
